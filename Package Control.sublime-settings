@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Color Highlight",
+		"ColorPicker",
+		"Emmet",
+		"Emoji",
+		"GhostText",
+		"HTML-CSS-JS Prettify",
+		"Oceanic Next Italic Color Scheme",
+		"Package Control",
+		"Python 3",
+		"Sass",
+		"SideBarEnhancements",
+		"Terminal",
+		"TypeScript"
+	]
+}
